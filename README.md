@@ -1,5 +1,4 @@
 <div align="center">
-<br/><img src="https://github.com/xShadyy/Desktop-Cleaner/assets/131590030/92389b16-8c0f-42a8-b3f2-12ab79b41a8e"><br/>
 CS2 config optimised to help you strafe and bhop better<br/><br/><img src="https://img.shields.io/badge/CS2-2024-2e3440?style=flat-square"/> <img src="https://img.shields.io/badge/LICENE-MIT-2e3440?style=flat-square"/> <img src="https://img.shields.io/badge/VERSION-1.0.0-2e3440?style=flat-square"/><br/><a align="center" href="https://www.buymeacoffee.com/shadyy"><img align="center" src="https://img.shields.io/badge/BUY%20ME%20A%20COFFEE-2e3440?style=for-the-badge&logo=BuyMeACoffee&logoColor=white"/></a>
 </div>
 
